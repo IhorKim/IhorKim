@@ -8,7 +8,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MYSQL]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white))
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white))
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078919287579)
